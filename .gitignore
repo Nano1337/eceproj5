@@ -2,3 +2,5 @@ venv/
 *.npy
 __pycache__/
 PNGs/
+*.json
+*.png
